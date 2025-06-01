@@ -41,3 +41,6 @@
 
 로그인한 사용자는 권한에 관계 없이 댓글을 작성할 수 있다.
 사용자는 댓글 내용(텍스트)를 작성할 수 있다.
+
+## ERD 설계  
+![image](https://github.com/user-attachments/assets/161e212b-6a76-484f-925c-e7f689b6c9e2)
